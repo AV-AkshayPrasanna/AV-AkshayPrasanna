@@ -24,12 +24,33 @@ I’m passionate about problem-solving, Data Structures & Algorithms, software d
 - [NeetCode Solutions](https://github.com/AV-AkshayPrasanna/NeetCode) — My DSA practice and NeetCode submissions.
 - [CodeChef Solutions](https://github.com/AV-AkshayPrasanna/CodeChef) — My competitive programming solutions.
 
+## 📊 Coding Progress
+
+I track my coding journey through regular practice and public solution repositories.
+
+<p align="center">
+  <a href="https://github.com/AV-AkshayPrasanna">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AV-AkshayPrasanna&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  </a>
+  <a href="https://github.com/AV-AkshayPrasanna">
+    <img height="165" src="https://streak-stats.demolab.com?user=AV-AkshayPrasanna&hide_border=true" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/A_V_AkshayPrasanna/">
+    <img src="https://leetcard.jacoblin.cool/A_V_AkshayPrasanna?theme=light&font=Baloo&ext=heatmap" alt="LeetCode statistics and activity" />
+  </a>
+</p>
+
+*These cards are provided by third-party services and may occasionally be unavailable or delayed.*
+
 ## 🤖 Projects & Experience
 
 - **Student Performance Analysis & Prediction** — Machine learning project developed during my AI internship using Decision Tree and Random Forest models.
 - **Smart Attendance System** — A prototype project for my Design Thinking and Methodology coursework.
 
-## 📈 My Goals
+## 🎯 My Goals
 
 - Strengthen my DSA and competitive programming skills
 - Build useful, real-world software projects
