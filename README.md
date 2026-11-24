@@ -6,7 +6,7 @@
 
 **B.Tech CSE @ SRMIST · Software Development · AI & Problem Solving**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=2F81F7&center=true&vCenter=true&width=720&height=45&duration=55&deleteSpeed=30&lines=Less+hype.+More+building.;Curiosity+into+code.+Ideas+into+products.;Build+with+intent.+Learn+by+shipping.;Stay+curious.+Keep+building.+Ship+better." alt="Typing quotes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=2F81F7&center=true&vCenter=true&width=720&height=45&duration=55&deleteSpeed=30&lines=Less+hype.+More+building.;Curiosity+into+code.+Ideas+into+products.;Build+with+intent.+Learn+by+shipping.;Stay+curious.+Keep+building.+Ship+better." alt="Typing quotes" />
 
 </div>
 
