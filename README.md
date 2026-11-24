@@ -33,7 +33,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=chatgpt&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=FFFFFF)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
