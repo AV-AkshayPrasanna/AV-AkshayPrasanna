@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# Hey, I'm Akshay 👋
+# Hey, I'm AkshayPrasanna A V 👋
 
 **B.Tech CSE @ SRMIST · Software Development · AI & Problem Solving**
 
-Building things, learning how they work, and improving one commit at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=2F81F7&center=true&vCenter=true&width=720&height=45&duration=55&deleteSpeed=30&lines=Less+hype.+More+building.;Curiosity+into+code.+Ideas+into+products.;Build+with+intent.+Learn+by+shipping.;Stay+curious.+Keep+building.+Ship+better." alt="Typing quotes" />
 
 </div>
 
@@ -38,7 +38,6 @@ Building things, learning how they work, and improving one commit at a time.
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -58,14 +57,13 @@ A student-focused AI companion built with **Next.js, React, Tailwind CSS, and Go
 
 ## Problem Solving
 
-- [**LeetCode**](https://leetcode.com/u/A_V_AkshayPrasanna/) · [GitHub solutions](https://github.com/AV-AkshayPrasanna/LeetCode)
-- [**NeetCode**](https://neetcode.io/user/DynamicVex762) · [GitHub solutions](https://github.com/AV-AkshayPrasanna/NeetCode)
-- [**CodeChef**](https://www.codechef.com/users/akshayprasanna) · [GitHub solutions](https://github.com/AV-AkshayPrasanna/CodeChef)
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18" alt="LeetCode" /> [**LeetCode**](https://leetcode.com/u/A_V_AkshayPrasanna/) · [GitHub solutions](https://github.com/AV-AkshayPrasanna/LeetCode)
+- <img src="https://neetcode.io/favicon.ico" width="18" height="18" alt="NeetCode" /> [**NeetCode**](https://neetcode.io/user/DynamicVex762) · [GitHub solutions](https://github.com/AV-AkshayPrasanna/NeetCode)
+- <img src="https://cdn.simpleicons.org/codechef/5B4638" width="18" height="18" alt="CodeChef" /> [**CodeChef**](https://www.codechef.com/users/akshayprasanna) · [GitHub solutions](https://github.com/AV-AkshayPrasanna/CodeChef)
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayprasannaav/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AV-AkshayPrasanna)
 
 ---
 
