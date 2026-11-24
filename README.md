@@ -71,7 +71,6 @@ A student-focused AI companion built with **Next.js, React, Tailwind CSS, and Go
   <a href="https://www.geeksforgeeks.org/profile/akshayprasanna"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="https://leetcode.com/u/A_V_AkshayPrasanna/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/akshayprasanna"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://neetcode.io/user/DynamicVex762"><img src="https://img.shields.io/badge/NeetCode-111827?style=flat-square&logo=neetcode&logoColor=white" alt="NeetCode" /></a>
 </p>
 
 ---
