@@ -33,6 +33,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Tools**
@@ -65,11 +67,11 @@ A student-focused AI companion built with **Next.js, React, Tailwind CSS, and Go
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/akshayprasannaav/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/akshayprasanna"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="22" height="22" alt="GeeksforGeeks" /></a>&nbsp;
-  <a href="https://leetcode.com/u/A_V_AkshayPrasanna/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" height="22" alt="LeetCode" /></a>&nbsp;
-  <a href="https://www.codechef.com/users/akshayprasanna"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="22" height="22" alt="CodeChef" /></a>&nbsp;
-  <a href="https://neetcode.io/user/DynamicVex762"><img src="https://neetcode.io/favicon.ico" width="22" height="22" alt="NeetCode" /></a>
+  <a href="https://www.linkedin.com/in/akshayprasannaav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/akshayprasanna"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://leetcode.com/u/A_V_AkshayPrasanna/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/akshayprasanna"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://neetcode.io/user/DynamicVex762"><img src="https://img.shields.io/badge/NeetCode-111827?style=flat-square&logo=neetcode&logoColor=white" alt="NeetCode" /></a>
 </p>
 
 ---
